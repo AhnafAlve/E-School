@@ -1,0 +1,141 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFFFF;
+}
+/* header-section */
+.navbar-brand img{
+    width: 198px;
+    height: 59px;
+}
+header{
+    width: 100%;
+    height: 576px;
+    background-color: #F0FFF0;
+}
+#illustration img{
+    width: 100%;
+}
+.txt-color{
+    color:#FD511A ;
+}
+.schedule{
+    color: #21B573;
+}
+.nav-item{
+    color: black;
+}
+.signnup-btn{
+    
+    width: 104px;
+    height:33px ;
+    background-color:#21B573;
+    color: white;
+    border-radius: 33px;
+    border: none;
+}
+.signnup-btn:hover{
+    background-color:orangered;
+}
+.content-item{
+    margin-top: 80px;
+}
+/* header section end */
+.cat3{
+    margin-top: 50px;
+    width: 270px;
+    height: 280px;
+    padding: 10px;
+    
+}
+.cat3 img{
+    width: 60px;
+}
+
+.card_text{
+    background-color: #F0FFF0;
+    border: none;
+}
+.single_box:hover{
+    background: white;
+    box-shadow: 10px 10px 40px #ddd;
+    border: none;
+    overflow: hidden;
+}
+.card img{
+    padding: 10px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+}
+.txt-position{
+    text-align: center;
+}
+
+h1{
+    font-weight: bold !important;
+}
+.card-footer {
+    border-top: none !important;
+    background-color: #FFFFFF;
+} 
+.card-footer img{
+    width: 15%;
+}
+small{
+    padding-left:0px ;
+    padding-right: 10px;
+}
+.testimonial-man img{
+    width: 120px;
+    height: 120px;
+    margin: 12px 0px 0px 170px;
+}
+.testimonial{
+    height: 400px;
+    margin-top: 150px;
+}
+.testionial-content{
+    margin-top: 40px;
+}
+
+
+#content img {
+    width: 150px;
+    height: 150px;
+    margin-left: 10%;
+    float: left;
+    padding: 20px;
+}
+#content{
+    height: 350px;
+    margin-top: 150px;
+}
+/* footer start */
+footer{
+    background-color:#282531; 
+    width: 100%;
+    height: 400px;
+}
+
+ul{
+    list-style-type: none;
+  }
+
+.footer_content br {
+    display: none;
+    color: #FFFFFF;
+}
+.footer_content{
+    font-size: 13px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+#footer-position{
+    padding-top: 90px;
+}
+#f-color{
+    color: #FFFFFF;
+    padding-top: 90px;
+}
